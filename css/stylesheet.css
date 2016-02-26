@@ -87,25 +87,25 @@ a {
   transform: translate(-50%, -50%);
 }
 .project-name {
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 700;
-  font-style: normal;
+  font-style: italic;
   margin-top: 0;
   margin-bottom: 0;
 }
 @media screen and (min-width: 64em) {
   .project-name {
-    font-size: 6.5rem;
+    font-size: 2.34rem;
   }
 }
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-name {
-    font-size: 5.850000000000001rem;
+    font-size: 1.56rem;
   }
 }
 @media screen and (max-width: 42em) {
   .project-name {
-    font-size: 3.9rem;
+    font-size: 1.17rem;
   }
 }
 .project-tagline {
