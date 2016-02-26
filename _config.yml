@@ -1,20 +1,20 @@
 # Site settings
-title: The Trojan Horse of Spaces
+title: Hello Cathie <3
 tagline: Stealing wives in the middle of the night.
 
 url: "" # the base hostname & protocol for your site
 
 # Used for theme in head.html, cannot be used in Stylus files
-color-primary: "#263238"
+color-primary: "#4CAF50"
 
 # contact
 author:
-  name: Dan Buckland
-  url: http://github.com/danbuckland
+  name: Paris Fowler
+  url: https://github.com/ParisF
 
-twitter_username: danbuckland
-github_username:  danbuckland
-github_url: "https://github.com/danbuckland/jekyll-holding-page-boilerplate"
+twitter_username: ParisF
+github_username:  ParisF
+github_url: "https://github.com/ParisF/tendaria.xyz"
 
 # Others
 markdown: redcarpet
