@@ -1,10 +1,6 @@
 # Site settings
-title: Cherry Blossoms
-<<<<<<< HEAD
-tagline: The Pink Blossoms of Spring
-=======
-tagline: The Pink Blooms of Spring
->>>>>>> gh-pages
+title: Castle on the Hill
+tagline: "Here dwell the cold of heart."
 
 url: "" # the base hostname & protocol for your site
 
