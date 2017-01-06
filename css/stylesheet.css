@@ -1,14 +1,23 @@
 Body {
   /*background-color: #E86598;*/
 
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d4e4ef+0,86aecc+51,86aecc+51,86aecc+64 */
-  background: #d4e4ef; /* Old browsers */
-  background: -moz-linear-gradient(top,  #d4e4ef 0%, #86aecc 51%, #86aecc 51%, #86aecc 64%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(top,  #d4e4ef 0%,#86aecc 51%,#86aecc 51%,#86aecc 64%); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(to bottom,  #d4e4ef 0%,#86aecc 51%,#86aecc 51%,#86aecc 64%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d4e4ef', endColorstr='#86aecc',GradientType=0 ); /* IE6-9 */
+
 }
+
 h2 {
   color: navy;
-  margin-left: 855px;
+  /*margin-left: 870px;*/
+  text-align: center;
+}
+
+#one {
+    height: 5px;
+    /*width: 100px;*/
+    width: 50%;
+    margin: 0 auto;
+    border: 2px solid navy;
+    border-radius: 5px;
+    display: block;
+  background-color: pink;
 }
