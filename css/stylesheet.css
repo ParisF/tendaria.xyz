@@ -30,9 +30,10 @@ div {
 
 #two {
   float:right;
-  height: 5px;
-  width: 50%;
-  margin: 10px
+  height: 500px;
+  width: 20%;
+  margin-top: 40px;
+  margin-right: 10px;
   border: 2px solid navy;
   border-radius: 5px;
   display: block;
